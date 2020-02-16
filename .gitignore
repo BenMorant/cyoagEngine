@@ -4,6 +4,11 @@
 #IntelliJ-specific stuff
 .idea/
 
+#Eclipse-specific stuff
+.settings/
+.classpath
+.project
+
 # Log file
 *.log
 
