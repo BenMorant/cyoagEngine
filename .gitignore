@@ -9,6 +9,9 @@
 .classpath
 .project
 
+#Maven-specific stuff
+*/target/*
+
 # Log file
 *.log
 
